@@ -1,1 +1,2 @@
-# Dhrubajyo.github.io
+# rgbcusoreffect.github.io
+This is the first website on github pages...
